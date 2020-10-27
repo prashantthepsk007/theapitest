@@ -6,3 +6,5 @@ from django.shortcuts import render
 2. this is the second commit from github to pycharm ide 
 
 3. this is the third commit of project from pycharm to git hub
+
+4. this is the fourth commit from the githun to pycharm how the things going on guys 
